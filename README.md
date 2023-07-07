@@ -1,5 +1,4 @@
 # Sign-Language-Translator 
-![image](https://user-images.githubusercontent.com/71098450/201107174-b153b585-9505-4912-b612-83d45a592a3c.png)
 # Output:
 
 ![image](https://user-images.githubusercontent.com/71098450/202464691-b9631147-fac1-41f4-9146-7460d0e0359b.png)
